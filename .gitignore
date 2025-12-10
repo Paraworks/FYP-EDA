@@ -1,0 +1,19 @@
+# 忽略 dataset 文件夹及其所有内容
+dataset/
+TRGAted-master/
+__pycache__/
+simple_survival_analysis.py
+outdated/
+wsi_to_protein_experiments/
+protein_graphs/
+processed_WSI_ACC/
+protein_to_protein_experiments/
+protein_to_wsi_experiments/
+survival_analysis_results/
+data/
+processed_WSI_hypergraphs/
+protein_hypergraphs/
+wsi_hypergraph_to_protein_hypergraph_experiments/
+Protein_tools/
+PPI/
+draft/
